@@ -53,7 +53,7 @@ int main() {
        for(int j=1;j<=n;j++){
            if(res[j]==0) continue;
            cout<<res[j]<<(j==n?"\n":" ");
-       }
+       } 
     }
     return 0;
 }
