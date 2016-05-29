@@ -22,6 +22,5 @@ public:
 		swap(num[up],num[++i]);
 		return i;
 
-
 	}
 };
